@@ -1,0 +1,17 @@
+C:\Users\adriano_guarezi\source\repos\Programa diretor\Programa diretor\bin\Debug\net6.0-windows\Programa diretor.exe
+C:\Users\adriano_guarezi\source\repos\Programa diretor\Programa diretor\bin\Debug\net6.0-windows\Programa diretor.deps.json
+C:\Users\adriano_guarezi\source\repos\Programa diretor\Programa diretor\bin\Debug\net6.0-windows\Programa diretor.runtimeconfig.json
+C:\Users\adriano_guarezi\source\repos\Programa diretor\Programa diretor\bin\Debug\net6.0-windows\Programa diretor.dll
+C:\Users\adriano_guarezi\source\repos\Programa diretor\Programa diretor\bin\Debug\net6.0-windows\Programa diretor.pdb
+C:\Users\adriano_guarezi\source\repos\Programa diretor\Programa diretor\obj\Debug\net6.0-windows\Programa_diretor.Form1.resources
+C:\Users\adriano_guarezi\source\repos\Programa diretor\Programa diretor\obj\Debug\net6.0-windows\Programa diretor.csproj.GenerateResource.cache
+C:\Users\adriano_guarezi\source\repos\Programa diretor\Programa diretor\obj\Debug\net6.0-windows\Programa diretor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriano_guarezi\source\repos\Programa diretor\Programa diretor\obj\Debug\net6.0-windows\Programa diretor.AssemblyInfoInputs.cache
+C:\Users\adriano_guarezi\source\repos\Programa diretor\Programa diretor\obj\Debug\net6.0-windows\Programa diretor.AssemblyInfo.cs
+C:\Users\adriano_guarezi\source\repos\Programa diretor\Programa diretor\obj\Debug\net6.0-windows\Programa diretor.csproj.CoreCompileInputs.cache
+C:\Users\adriano_guarezi\source\repos\Programa diretor\Programa diretor\obj\Debug\net6.0-windows\Programa diretor.dll
+C:\Users\adriano_guarezi\source\repos\Programa diretor\Programa diretor\obj\Debug\net6.0-windows\refint\Programa diretor.dll
+C:\Users\adriano_guarezi\source\repos\Programa diretor\Programa diretor\obj\Debug\net6.0-windows\Programa diretor.pdb
+C:\Users\adriano_guarezi\source\repos\Programa diretor\Programa diretor\obj\Debug\net6.0-windows\Programa diretor.genruntimeconfig.cache
+C:\Users\adriano_guarezi\source\repos\Programa diretor\Programa diretor\obj\Debug\net6.0-windows\ref\Programa diretor.dll
+C:\Users\adriano_guarezi\source\repos\Programa diretor\Programa diretor\obj\Debug\net6.0-windows\Programa_diretor.Properties.Resources.resources
